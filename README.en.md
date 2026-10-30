@@ -24,7 +24,6 @@ Drag and drop to convert 268 formats: images, PDF, Word, Excel, PowerPoint, HWP/
 [![Added](https://img.shields.io/badge/added-2026--10--30-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/KnifeLemon/Filee)
 [![Stars](https://img.shields.io/github/stars/KnifeLemon/Filee?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/KnifeLemon/Filee)
 [![Difficulty](https://img.shields.io/badge/difficulty-beginner-A3E4D7?style=flat-square&labelColor=c7e6e9)](details/Filee/Filee.en.md)
-[![Language](https://img.shields.io/badge/language-C%23-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://learn.microsoft.com/dotnet/csharp/)
 [![License](https://img.shields.io/badge/license-MIT-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://opensource.org/licenses/MIT)
 
 ---

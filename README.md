@@ -24,7 +24,6 @@
 [![收录时间](https://img.shields.io/badge/收录时间-2026--10--30-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/KnifeLemon/Filee)
 [![Stars](https://img.shields.io/github/stars/KnifeLemon/Filee?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/KnifeLemon/Filee)
 [![上手难度](https://img.shields.io/badge/上手难度-初级-A3E4D7?style=flat-square&labelColor=c7e6e9)](details/Filee/Filee.md)
-[![Language](https://img.shields.io/badge/language-C%23-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://learn.microsoft.com/dotnet/csharp/)
 [![License](https://img.shields.io/badge/license-MIT-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://opensource.org/licenses/MIT)
 
 ---
