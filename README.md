@@ -13,6 +13,16 @@
 | 🔴 困难 | 一般都不困难 —— 遇到需要写代码、改配置的情况，先看详细文档 |
 
 ## 精选项目
+[![yt-dlp 命令行音视频下载器](https://img.shields.io/badge/yt--dlp_命令行音视频下载器-cae9f8?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
+
+好用的命令行音视频下载器，支持 YouTube、Bilibili、Twitter、Vimeo 等 1000+ 网站，支持批量下载、字幕下载等多种实用选项。
+
+[![收录时间](https://img.shields.io/badge/收录时间-2026--11--04-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp)
+[![Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp)
+![上手难度](https://img.shields.io/badge/上手难度-中级-A3E4D7?style=flat-square&labelColor=c7e6e9)
+[![License](https://img.shields.io/badge/license-Unlicense-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
+
+---
 [![Filee 离线文件格式转换器](https://img.shields.io/badge/Filee_离线文件格式转换器-cae9f8?style=for-the-badge)](https://github.com/KnifeLemon/Filee)
 
 拖拽即可转换 268 种格式：图片、PDF、Word、Excel、PowerPoint、HWP/HWPX、音频、视频、电子书、压缩包、CAD 图纸、3D 模型等，全部在本机离线完成，无需上传文件。支持 Windows / macOS / Linux，并提供 `filee` 命令行与文件夹自动转换。

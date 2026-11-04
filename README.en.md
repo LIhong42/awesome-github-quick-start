@@ -13,6 +13,16 @@
 | 🔴 Advanced | Generally none are hard — if writing code or editing config comes up, check the detailed docs first |
 
 ## Featured Projects
+[![yt-dlp Command-Line Media Downloader](https://img.shields.io/badge/yt--dlp_Command--Line_Media_Downloader-cae9f8?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
+
+A handy command-line audio/video downloader supporting 1000+ sites including YouTube, Bilibili, Twitter and Vimeo, with many practical options such as batch downloading and subtitle downloads.
+
+[![Added](https://img.shields.io/badge/added-2026--11--04-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp)
+[![Stars](https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp)
+![Difficulty](https://img.shields.io/badge/difficulty-intermediate-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp)
+[![License](https://img.shields.io/badge/license-Unlicense-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/yt-dlp/yt-dlp/blob/master/LICENSE)
+
+---
 [![Filee Offline File Format Converter](https://img.shields.io/badge/Filee_Offline_File_Format_Converter-cae9f8?style=for-the-badge)](https://github.com/KnifeLemon/Filee)
 
 Drag and drop to convert 268 formats: images, PDF, Word, Excel, PowerPoint, HWP/HWPX, audio, video, e-books, archives, CAD drawings, 3D models and more — all done locally and offline, with no file uploads. Supports Windows / macOS / Linux, and ships a `filee` command line tool plus automatic folder conversion.
