@@ -13,6 +13,16 @@
 | 🔴 困难 | 一般都不困难 —— 遇到需要写代码、改配置的情况，先看详细文档 |
 
 ## 精选项目
+[![VoiceStudio 本地 AI 语音工作室](https://img.shields.io/badge/VoiceStudio_本地_AI_语音工作室-cae9f8?style=for-the-badge)](https://github.com/debpalash/VoiceStudio)
+
+语音克隆、语音设计、视频配音、听写、转写与有声书制作，支持 646 种语言，无需账号和 API Key。提供 Windows / macOS / Linux 桌面版，一条命令即可安装，模型按需下载；内置本地 API 与 MCP，可接入 Codex、Claude 等智能体自动化配音流程。
+
+[![收录时间](https://img.shields.io/badge/收录时间-2026--11--09-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio)
+[![Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio)
+![上手难度](https://img.shields.io/badge/上手难度-中级-A3E4D7?style=flat-square&labelColor=c7e6e9)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio/blob/main/LICENSE)
+
+---
 [![yt-dlp 命令行音视频下载器](https://img.shields.io/badge/yt--dlp_命令行音视频下载器-cae9f8?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
 
 好用的命令行音视频下载器，支持 YouTube、Bilibili、Twitter、Vimeo 等 1000+ 网站，支持批量下载、字幕下载等多种实用选项。

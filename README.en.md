@@ -13,6 +13,16 @@
 | 🔴 Advanced | Generally none are hard — if writing code or editing config comes up, check the detailed docs first |
 
 ## Featured Projects
+[![VoiceStudio Local AI Voice Studio](https://img.shields.io/badge/VoiceStudio_Local_AI_Voice_Studio-cae9f8?style=for-the-badge)](https://github.com/debpalash/VoiceStudio)
+
+Voice cloning, voice design, video dubbing, dictation, transcription and audiobook creation in 646 languages, with no account or API key required. Ships desktop builds for Windows / macOS / Linux, installs with a single command, and downloads models on demand; includes a local API and MCP server, so it can be wired into Codex, Claude and other agents to automate voice-over workflows.
+
+[![Added](https://img.shields.io/badge/added-2026--11--09-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio)
+[![Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=flat-square&color=A3E4D7&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio)
+![Difficulty](https://img.shields.io/badge/difficulty-intermediate-A3E4D7?style=flat-square&labelColor=c7e6e9)
+[![License](https://img.shields.io/badge/license-AGPL--3.0-A3E4D7?style=flat-square&labelColor=c7e6e9)](https://github.com/debpalash/VoiceStudio/blob/main/LICENSE)
+
+---
 [![yt-dlp Command-Line Media Downloader](https://img.shields.io/badge/yt--dlp_Command--Line_Media_Downloader-cae9f8?style=for-the-badge)](https://github.com/yt-dlp/yt-dlp)
 
 A handy command-line audio/video downloader supporting 1000+ sites including YouTube, Bilibili, Twitter and Vimeo, with many practical options such as batch downloading and subtitle downloads.
